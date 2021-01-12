@@ -1,1 +1,3 @@
-alert('Welcome to Restaurant Page!');
+import pageLoad from './pageLoad';
+
+pageLoad();
