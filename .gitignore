@@ -1,8 +1,5 @@
 # node modules
 node_modules
 
-# project's deployment files
-dist
-
 # macOS specific files
 .DS_Store
