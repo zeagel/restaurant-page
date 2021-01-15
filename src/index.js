@@ -1,3 +1,5 @@
-import pageLoad from './pageLoad';
+import Heading from './Heading';
+import TabsyMenu from './TabsyMenu';
 
-pageLoad();
+Heading();
+TabsyMenu();
